@@ -1,0 +1,10 @@
+C:\Users\Pathum Wijesekara\source\repos\Pizza Checkout - MIT008\Pizza Checkout - MIT008\bin\Debug\Pizza Checkout - MIT008.exe.config
+C:\Users\Pathum Wijesekara\source\repos\Pizza Checkout - MIT008\Pizza Checkout - MIT008\bin\Debug\Pizza Checkout - MIT008.exe
+C:\Users\Pathum Wijesekara\source\repos\Pizza Checkout - MIT008\Pizza Checkout - MIT008\bin\Debug\Pizza Checkout - MIT008.pdb
+C:\Users\Pathum Wijesekara\source\repos\Pizza Checkout - MIT008\Pizza Checkout - MIT008\obj\Debug\Pizza Checkout - MIT008.csproj.AssemblyReference.cache
+C:\Users\Pathum Wijesekara\source\repos\Pizza Checkout - MIT008\Pizza Checkout - MIT008\obj\Debug\Pizza_Checkout___MIT008.Form1.resources
+C:\Users\Pathum Wijesekara\source\repos\Pizza Checkout - MIT008\Pizza Checkout - MIT008\obj\Debug\Pizza_Checkout___MIT008.Properties.Resources.resources
+C:\Users\Pathum Wijesekara\source\repos\Pizza Checkout - MIT008\Pizza Checkout - MIT008\obj\Debug\Pizza Checkout - MIT008.csproj.GenerateResource.cache
+C:\Users\Pathum Wijesekara\source\repos\Pizza Checkout - MIT008\Pizza Checkout - MIT008\obj\Debug\Pizza Checkout - MIT008.csproj.CoreCompileInputs.cache
+C:\Users\Pathum Wijesekara\source\repos\Pizza Checkout - MIT008\Pizza Checkout - MIT008\obj\Debug\Pizza Checkout - MIT008.exe
+C:\Users\Pathum Wijesekara\source\repos\Pizza Checkout - MIT008\Pizza Checkout - MIT008\obj\Debug\Pizza Checkout - MIT008.pdb
